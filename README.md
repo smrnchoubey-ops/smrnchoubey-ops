@@ -52,6 +52,8 @@ I'm passionate about transforming theoretical concepts in **Artificial Intellige
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Kshama's Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=smrnchoubey-ops&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Coding Streak" />
+  ![Kshama's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=radical&hide_border=true&area=true)
 </div>
 
 ---
