@@ -44,10 +44,10 @@ I'm passionate about transforming theoretical concepts in **Artificial Intellige
 ## 📊 GitHub Analytics
 
 <div align="center">
-  ![Kshama's GitHub stats](https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs,issues,reviews)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs,issues,reviews" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=smrnchoubey-ops&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Coding Streak" />
-  ![Kshama's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=radical&hide_border=true&area=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
