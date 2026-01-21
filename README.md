@@ -1,40 +1,84 @@
 ![logo](https://github.com/smrnchoubey-ops/smrnchoubey-ops/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Kshama Chaturvedi 
-  **MCA (AI & Data Science) Student | Python Developer | AI Enthusiast**I'm passionate about transforming theoretical concepts in *Artificial Intelligence* and *Data Science* into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.I'm passionate about transforming theoretical concepts in *Artificial Intelligence* and *Data Science* into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.I'm passionate about transforming theoretical concepts in *Artificial Intelligence* and *Data Science* into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.</h1>
-<h3 align="center">I'm passionate about transforming theoretical concepts in *Artificial Intelligence* and *Data Science* into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.## 🎓 Academic & Professional Focus - *Current Pursuit:* Master of Computer Applications (MCA) specializing in *AI & Data Science* at Dev Bhoomi Uttarakhand University, Dehradun. - *Foundation:* Hold a Bachelor of Science (BSc) in *Mathematics* from Deen Dayal Upadhyay Gorakhpur University, providing a strong analytical and logical base for my work in AI. - *- Interests:* Applied Machine Learning, Computer Vision, Natural Language Processing, and Automation. - *Goal:* To develop efficient systems that leverage AI to simplify complex tasks.</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IxMDc3NjZ5ZGFtNDhlcXExcmppY2VqazF6Y3FhY2Fqc3phczMzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smrnchoubey-ops&label=Profile%20views&color=0e75b6&style=flat" alt="smrnchoubey-ops" /> </p>
+<h1 align="center">Hi 👋, I'm Kshama Chaturvedi</h1>
+<h3 align="center">AI & Data Science Graduate | Python Developer | Machine Learning Engineer (Aspiring)</h3>
 
-- 🔭 I’m currently working on [Face Recognition Attendance System](- (https://github.com/smrnchoubey-ops/Face-Recognition-Attendance-System-with-validation-and-recognition))
-
-- 🌱 I’m currently learning **Advanced Python, Deep Learning, OpenCV, Data Visualizations & BI Tools, Computer Vision**
-
-- 👯 I’m looking to collaborate on *** AI/ML projects, Computer Vision application**
-
-- 🤝 I’m looking for help with **Advanced Machine Learning Algorithms**
-
-- 👨‍💻 All of my projects are available at [https://smrnchoubey-ops.github.io/Portfolio/#page-top](https://smrnchoubey-ops.github.io/Portfolio/#page-top)
-
-- 💬 Ask me about **Python, AI & Data Science, Java, DSA, Machine Learning**
-
-- 📫 How to reach me **smrnchoubey@gmail.com**
-
-- 📄 Know about my experiences [### **CodeAlpha - AI/ML Intern** *January 2026 - Present (1 Month Internship)* - Working on AI/ML projects for certification - Developing practical machine learning applications - Gaining hands-on experience in real-world AI solutions - Building portfolio projects for professional development](### **CodeAlpha - AI/ML Intern** *January 2026 - Present (1 Month Internship)* - Working on AI/ML projects for certification - Developing practical machine learning applications - Gaining hands-on experience in real-world AI solutions - Building portfolio projects for professional development)
-
-- ⚡ Fun fact **My journey from mathematics equations to machine learning models feels like discovering two languages for the same truth.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kshama-chaturvedi-7052bb314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kshama-chaturvedi-7052bb314" height="30" width="40" /></a>
+<p align="center">
+I am a motivated MCA (AI & Data Science) graduate with a strong foundation in mathematics and computer science, seeking entry-level roles or internships in AI/ML, Data Science, or Python Development. I specialize in building real-world, production-ready applications using machine learning, computer vision, and automation.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="360" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IxMDc3NjZ5ZGFtNDhlcXExcmppY2VqazF6Y3FhY2Fqc3phczMzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smrnchoubey-ops&show_icons=true&locale=en&layout=compact" alt="smrnchoubey-ops" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=smrnchoubey-ops&label=Profile%20views&color=0e75b6&style=flat" alt="smrnchoubey-ops" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&locale=en" alt="smrnchoubey-ops" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smrnchoubey-ops&" alt="smrnchoubey-ops" /></p>
+### 🎓 Education
 
+- 🎓 **Master of Computer Applications (MCA) — AI & Data Science**  
+  Dev Bhoomi Uttarakhand University, Dehradun
+
+- 🎓 **Bachelor of Science (BSc) — Mathematics**  
+  Deen Dayal Upadhyay Gorakhpur University
+
+---
+
+### 💼 Experience
+
+- **AI/ML Intern — CodeAlpha** *(January 2026 – Present)*  
+  - Developing machine learning models for real-world use cases  
+  - Working on computer vision and automation projects  
+  - Gaining hands-on experience with industry-grade ML pipelines  
+
+---
+
+### 🚀 Key Projects
+
+- 🔹 **Face Recognition Attendance System**  
+  Built a real-time facial recognition system with validation, recognition, and attendance logging using Python, OpenCV, and machine learning.  
+  👉 [View Project](https://github.com/smrnchoubey-ops/Face-Recognition-Attendance-System-with-validation-and-recognition)
+
+*(I can add more projects here if you want.)*
+
+---
+
+### 🛠️ Technical Skills
+
+- **Languages:** Python, Java, C, SQL  
+- **AI/ML:** Machine Learning, Deep Learning, Computer Vision, NLP  
+- **Libraries/Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy  
+- **Tools:** Git, GitHub, Docker, Linux, Firebase  
+- **Databases:** MySQL, MongoDB, PostgreSQL  
+- **Visualization:** Matplotlib, Seaborn, Power BI
+
+---
+
+### 🎯 Career Objective
+
+To secure an entry-level role or internship in **AI/ML, Data Science, or Python Development**, where I can apply my analytical skills and contribute to building intelligent, impactful software solutions.
+
+---
+
+### 📬 Contact & Portfolio
+
+- 📧 Email: **smrnchoubey@gmail.com**  
+- 🌐 Portfolio: [https://smrnchoubey-ops.github.io/Portfolio](https://smrnchoubey-ops.github.io/Portfolio)  
+- 🔗 LinkedIn: [Kshama Chaturvedi](https://www.linkedin.com/in/kshama-chaturvedi-7052bb314)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smrnchoubey-ops&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smrnchoubey-ops" />
+</p>
