@@ -40,8 +40,6 @@ I am a motivated MCA (AI & Data Science) graduate with a strong foundation in ma
   Built a real-time facial recognition system with validation, recognition, and attendance logging using Python, OpenCV, and machine learning.  
   👉 [View Project](https://github.com/smrnchoubey-ops/Face-Recognition-Attendance-System-with-validation-and-recognition)
 
-*(I can add more projects here if you want.)*
-
 ---
 
 ### 🛠️ Technical Skills
@@ -69,16 +67,16 @@ To secure an entry-level role or internship in **AI/ML, Data Science, or Python 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Dark Theme)
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smrnchoubey-ops&show_icons=true&locale=en&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smrnchoubey-ops&show_icons=true&locale=en&layout=compact&theme=dark" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&locale=en" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&locale=en&theme=dark" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smrnchoubey-ops" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smrnchoubey-ops&theme=dark" />
 </p>
