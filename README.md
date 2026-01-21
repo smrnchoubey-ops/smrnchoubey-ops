@@ -1,4 +1,4 @@
-## Hi there 👋I'm Kshama Chaturvedi
+## Hi there 👋 I'm Kshama Chaturvedi
 **MCA Student (AI & Data Science) | Python Developer | Building Intelligent, Real-World Applications**
 
 I'm passionate about transforming theoretical concepts in **Artificial Intelligence** and **Data Science** into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.
@@ -6,7 +6,8 @@ I'm passionate about transforming theoretical concepts in **Artificial Intellige
 ---
 
 ## 🎓 Academic & Professional Focus
-- **Degree:** Master of Computer Applications (MCA) specializing in **AI & Data Science**.
+- **Current Pursuit:** Master of Computer Applications (MCA) specializing in **AI & Data Science** at Dev Bhoomi Uttarakhand University, Dehradun.
+- **Foundation:** Hold a Bachelor of Science (BSc) in **Mathematics** from Deen Dayal Upadhyay Gorakhpur University, providing a strong analytical and logical base for my work in AI.
 - **Interests:** Applied Machine Learning, Computer Vision, Natural Language Processing, and Automation.
 - **Goal:** To develop efficient systems that leverage AI to simplify complex tasks.
 
@@ -21,16 +22,11 @@ I'm passionate about transforming theoretical concepts in **Artificial Intellige
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### **AI/ML, Data Science & Computer Vision**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
 ## 💼 Featured Projects
 
 | Project | Description | Tech Stack | Highlights |
@@ -44,12 +40,10 @@ I'm passionate about transforming theoretical concepts in **Artificial Intellige
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=dark&hide_border=true&hide=contribs,prs,issues,reviews" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs,issues,reviews" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=smrnchoubey-ops&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Coding Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=smrnchoubey-ops&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 ## 📫 Let's Connect!
