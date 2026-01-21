@@ -33,21 +33,21 @@ I'm passionate about transforming theoretical concepts in **Artificial Intellige
 
 | Project | Description | Tech Stack | Highlights |
 |:--------|:------------|:-----------|:-----------|
-| **[🧠 Face Recognition Attendance System](https://github.com/Kshama-Chaturvedi/Face-Recognition-Attendance-System-with-validation-and-recognition)** | Automated system with face detection, validation, and Excel reporting. | `Python`, `OpenCV`, `Pandas`, `OpenPyXL` | Real-time processing, database validation, late-entry logic. |
-| **[🤖 AI/ML Internship Portfolio](https://github.com/Kshama-Chaturvedi/Internship_project)** | A collection of 5 tasks covering core AI domains. | `Jupyter`, `NLP`, `Speech Processing`, `Deep Learning`, `LLM API` | Text summarization, speech recognition, Neural Style Transfer, GPT integration. |
-| **[🌐 Personal Portfolio Website](https://github.com/Kshama-Chaturvedi/Portfolio)** | A responsive website to showcase projects and skills. | `HTML`, `CSS`, `JavaScript` | Clean design, project showcase section. |
+| **[🧠 Face Recognition Attendance System](https://github.com/smrnchoubey-ops/Face-Recognition-Attendance-System-with-validation-and-recognition)** | Automated system with face detection, validation, and Excel reporting. | `Python`, `OpenCV`, `Pandas`, `OpenPyXL` | Real-time processing, database validation, late-entry logic. |
+| **[🤖 AI/ML Internship Portfolio](https://github.com/smrnchoubey-ops/Internship_project)** | A collection of 5 tasks covering core AI domains. | `Jupyter`, `NLP`, `Speech Processing`, `Deep Learning`, `LLM API` | Text summarization, speech recognition, Neural Style Transfer, GPT integration. |
+| **[🌐 Personal Portfolio Website](https://github.com/smrnchoubey-ops/Portfolio)** | A responsive website to showcase projects and skills. | `HTML`, `CSS`, `JavaScript` | Clean design, project showcase section. |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kshama-Chaturvedi&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Kshama-Chaturvedi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=smrnchoubey-ops&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshama-Chaturvedi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -58,7 +58,7 @@ I'm always eager to discuss technology, collaborate on interesting AI/DS project
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/kshama-chaturvedi-7052bb314)
 [![Email](https://img.shields.io/badge/Email-Send_a_Message-%23D14836?logo=gmail)](mailto:smrnchoubey@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-%23181717?logo=github)](https://github.com/Kshama-Chaturvedi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-%23181717?logo=github)](https://github.com/smrnchoubey-ops)
 
 ---
 
