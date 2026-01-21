@@ -1,65 +1,40 @@
-## Hi there 👋 I'm Kshama Chaturvedi
-**MCA Student (AI & Data Science) | Python Developer | Building Intelligent, Real-World Applications**
+![logo](https://github.com/smrnchoubey-ops/smrnchoubey-ops/blob/main/banner.png)
+<h1 align="center">Hi 👋, I'm Kshama Chaturvedi 
+  **MCA (AI & Data Science) Student | Python Developer | AI Enthusiast**I'm passionate about transforming theoretical concepts in *Artificial Intelligence* and *Data Science* into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.I'm passionate about transforming theoretical concepts in *Artificial Intelligence* and *Data Science* into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.I'm passionate about transforming theoretical concepts in *Artificial Intelligence* and *Data Science* into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.</h1>
+<h3 align="center">I'm passionate about transforming theoretical concepts in *Artificial Intelligence* and *Data Science* into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.## 🎓 Academic & Professional Focus - *Current Pursuit:* Master of Computer Applications (MCA) specializing in *AI & Data Science* at Dev Bhoomi Uttarakhand University, Dehradun. - *Foundation:* Hold a Bachelor of Science (BSc) in *Mathematics* from Deen Dayal Upadhyay Gorakhpur University, providing a strong analytical and logical base for my work in AI. - *- Interests:* Applied Machine Learning, Computer Vision, Natural Language Processing, and Automation. - *Goal:* To develop efficient systems that leverage AI to simplify complex tasks.</h3>
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IxMDc3NjZ5ZGFtNDhlcXExcmppY2VqazF6Y3FhY2Fqc3phczMzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
 
-I'm passionate about transforming theoretical concepts in **Artificial Intelligence** and **Data Science** into functional, practical software. My projects often sit at the intersection of automation, computer vision, and data analysis, solving tangible problems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smrnchoubey-ops&label=Profile%20views&color=0e75b6&style=flat" alt="smrnchoubey-ops" /> </p>
 
----
+- 🔭 I’m currently working on [Face Recognition Attendance System](- (https://github.com/smrnchoubey-ops/Face-Recognition-Attendance-System-with-validation-and-recognition))
 
-## 🎓 Academic & Professional Focus
-- **Current Pursuit:** Master of Computer Applications (MCA) specializing in **AI & Data Science** at Dev Bhoomi Uttarakhand University, Dehradun.
-- **Foundation:** Hold a Bachelor of Science (BSc) in **Mathematics** from Deen Dayal Upadhyay Gorakhpur University, providing a strong analytical and logical base for my work in AI.
-- **Interests:** Applied Machine Learning, Computer Vision, Natural Language Processing, and Automation.
-- **Goal:** To develop efficient systems that leverage AI to simplify complex tasks.
+- 🌱 I’m currently learning **Advanced Python, Deep Learning, OpenCV, Data Visualizations & BI Tools, Computer Vision**
 
----
+- 👯 I’m looking to collaborate on *** AI/ML projects, Computer Vision application**
 
-## 🛠️ Technical Toolkit
+- 🤝 I’m looking for help with **Advanced Machine Learning Algorithms**
 
-### **Programming & Development**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- 👨‍💻 All of my projects are available at [https://smrnchoubey-ops.github.io/Portfolio/#page-top](https://smrnchoubey-ops.github.io/Portfolio/#page-top)
 
-### **AI/ML, Data Science & Computer Vision**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+- 💬 Ask me about **Python, AI & Data Science, Java, DSA, Machine Learning**
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+- 📫 How to reach me **smrnchoubey@gmail.com**
 
----
+- 📄 Know about my experiences [### **CodeAlpha - AI/ML Intern** *January 2026 - Present (1 Month Internship)* - Working on AI/ML projects for certification - Developing practical machine learning applications - Gaining hands-on experience in real-world AI solutions - Building portfolio projects for professional development](### **CodeAlpha - AI/ML Intern** *January 2026 - Present (1 Month Internship)* - Working on AI/ML projects for certification - Developing practical machine learning applications - Gaining hands-on experience in real-world AI solutions - Building portfolio projects for professional development)
 
-## 💼 Featured Projects
+- ⚡ Fun fact **My journey from mathematics equations to machine learning models feels like discovering two languages for the same truth.**
 
-| Project | Description | Tech Stack | Highlights |
-|:--------|:------------|:-----------|:-----------|
-| **[🧠 Face Recognition Attendance System](https://github.com/smrnchoubey-ops/Face-Recognition-Attendance-System-with-validation-and-recognition)** | Automated system with face detection, validation, and Excel reporting. | `Python`, `OpenCV`, `Pandas`, `OpenPyXL` | Real-time processing, database validation, late-entry logic. |
-| **[🤖 AI/ML Internship Portfolio](https://github.com/smrnchoubey-ops/Internship_project)** | A collection of 5 tasks covering core AI domains. | `Jupyter`, `NLP`, `Speech Processing`, `Deep Learning`, `LLM API` | Text summarization, speech recognition, Neural Style Transfer, GPT integration. |
-| **[🌐 Personal Portfolio Website](https://github.com/smrnchoubey-ops/Portfolio)** | A responsive website to showcase projects and skills. | `HTML`, `CSS`, `JavaScript` | Clean design, project showcase section. |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kshama-chaturvedi-7052bb314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kshama-chaturvedi-7052bb314" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Analytics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smrnchoubey-ops&show_icons=true&locale=en&layout=compact" alt="smrnchoubey-ops" /></p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=smrnchoubey-ops&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&locale=en" alt="smrnchoubey-ops" /></p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smrnchoubey-ops&" alt="smrnchoubey-ops" /></p>
 
----
-
-## 📫 Let's Connect!
-
-I'm always eager to discuss technology, collaborate on interesting AI/DS projects, or explore new opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/kshama-chaturvedi-7052bb314)
-[![Email](https://img.shields.io/badge/Email-Send_a_Message-%23D14836?logo=gmail)](mailto:smrnchoubey@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-%23181717?logo=github)](https://github.com/smrnchoubey-ops)
-
----
-
-<sub>⚡ *"Code is the most direct translation of thought into impact."*</sub>
