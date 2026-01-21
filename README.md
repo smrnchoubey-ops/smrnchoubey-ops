@@ -27,6 +27,8 @@ I'm passionate about transforming theoretical concepts in **Artificial Intellige
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+---
+
 ## 💼 Featured Projects
 
 | Project | Description | Tech Stack | Highlights |
@@ -40,10 +42,14 @@ I'm passionate about transforming theoretical concepts in **Artificial Intellige
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs,issues,reviews" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=smrnchoubey-ops&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=smrnchoubey-ops&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
 ---
 
 ## 📫 Let's Connect!
@@ -51,12 +57,9 @@ I'm passionate about transforming theoretical concepts in **Artificial Intellige
 I'm always eager to discuss technology, collaborate on interesting AI/DS projects, or explore new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/kshama-chaturvedi-7052bb314)
-[![Email](https://img.shields.io/badge/Email-Send_a_Message-%23D14836?logo=gmail)](smrnchoubey@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Send_a_Message-%23D14836?logo=gmail)](mailto:smrnchoubey@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-%23181717?logo=github)](https://github.com/smrnchoubey-ops)
 
 ---
 
 <sub>⚡ *"Code is the most direct translation of thought into impact."*</sub>
-
-
-
