@@ -78,6 +78,7 @@ To secure an entry-level role or internship in **AI/ML, Data Science, or Python 
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smrnchoubey-ops& />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smrnchoubey-ops" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrnchoubey-ops&theme=dark" />
+</p>/>
 </p>
