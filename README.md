@@ -104,7 +104,3 @@ To secure an entry-level role or internship in **AI/ML, Data Science, or Python 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&locale=en&theme=dark" />
 </p>
 
-<p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smrnchoubey-ops&theme=dark&hide_border=true" alt="GitHub Streak" width="600"/>
-</p>
