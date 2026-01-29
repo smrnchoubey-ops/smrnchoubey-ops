@@ -75,7 +75,7 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
 
 ### 🤖 **AI/ML Intern** @ **CodeAlpha** *(January 2026 – Present)*
 - 📊 Developed **Credit Scoring Models** using ensemble ML algorithms
-- 🏥 Built **Disease Prediction System** with 92% accuracy using classification techniques
+- 🏥 Built **Disease Prediction System** with 60% accuracy using classification techniques
 - 🔧 Implemented end-to-end ML pipelines with data preprocessing & model deployment
 - 📈 Created interactive visualizations for model performance analysis
 
