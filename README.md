@@ -154,35 +154,39 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
 | **[Power BI Dashboards](https://github.com/smrnchoubey-ops/PowerBI-Desktop)** | Power BI, DAX, Data Visualization | Interactive business intelligence dashboards & reports | ✅ **Completed** |
 | **[MCA Study Notes](https://github.com/smrnchoubey-ops/notes)** | Markdown, GitHub | Comprehensive notes for AI & Data Science subjects | 📚 **Ongoing** |
 
+
 ---
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 📊 GitHub Statistics
 
 ### 📈 Coding Activity & Languages
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&title_color=58A6FF" width="80%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=github-dark&hide_border=true" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="45%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=smrnchoubey-ops&theme=radical&hide_border=false" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical" width="45%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=smrnchoubey-ops&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smrnchoubey-ops&theme=github_dark&utcOffset=5.5" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=dark" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smrnchoubey-ops&theme=github_dark&utcOffset=5.5" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smrnchoubey-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=smrnchoubey-ops&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=smrnchoubey-ops&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=smrnchoubey-ops&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
-
 ## 📫 Connect With Me
 
 <p align="center">
