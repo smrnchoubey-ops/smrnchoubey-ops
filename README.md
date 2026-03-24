@@ -161,8 +161,6 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📊 GitHub Statistics
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <!-- Activity Graph -->
@@ -185,7 +183,8 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smrnchoubey-ops&theme=radical&no-frame=true&margin-w=10" />
 </p>
-## 📫 Connect With Me
+
+<h2 align="center">Contact with me</h2>
 
 <p align="center">
   <a href="https://smrnchoubey-ops.github.io/Portfolio" target="_blank">
