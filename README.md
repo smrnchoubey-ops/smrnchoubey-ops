@@ -163,26 +163,33 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
 
 <h2 align="left">📊 GitHub Analytics</h2>
 
-<!-- Activity Graph -->
+
+### 📈 Coding Activity & Languages
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=github-dark&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=github-dark&hide_border=true" width="80%" />
 </p>
 
-<!-- Stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical&v=1" width="45%"/>
-  <img src="https://streak-stats.demolab.com/?user=smrnchoubey-ops&theme=radical" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical" width="45%" />
+ <img src="https://streak-stats.demolab.com/?user=smrnchoubey-ops&theme=radical" width="45%"/></p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=dark" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smrnchoubey-ops&theme=github_dark&utcOffset=5.5" width="45%" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=dark&v=1" width="45%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=smrnchoubey-ops&theme=radical" />
 </p>
 
-<!-- Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smrnchoubey-ops&theme=radical&no-frame=true&margin-w=10" />
+<img src="https://github-contributor-stats.vercel.app/api?username=smrnchoubey-ops&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
+
+---
+
+---
+
 
 <h2 align="left">Contact with me</h2>
 
@@ -209,32 +216,6 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
 
 </div>
 
-### 📈 Coding Activity & Languages
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=github-dark&hide_border=true" width="80%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical" width="45%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=smrnchoubey-ops&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=dark" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smrnchoubey-ops&theme=github_dark&utcOffset=5.5" width="45%" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=smrnchoubey-ops&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=smrnchoubey-ops&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
----
 
 ## 🎯 Career Objective
 
