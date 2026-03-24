@@ -161,7 +161,7 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="left">📊 GitHub Analytics</h2>
 
 <!-- Activity Graph -->
 <p align="center">
@@ -184,7 +184,7 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
   <img src="https://github-profile-trophy.vercel.app/?username=smrnchoubey-ops&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
-<h2 align="center">Contact with me</h2>
+<h2 align="left">Contact with me</h2>
 
 <p align="center">
   <a href="https://smrnchoubey-ops.github.io/Portfolio" target="_blank">
@@ -208,6 +208,31 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
 ### 🔗 **LinkedIn:** [Kshama Chaturvedi](https://www.linkedin.com/in/kshama-chaturvedi-7052bb314)
 
 </div>
+
+### 📈 Coding Activity & Languages
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smrnchoubey-ops&theme=github-dark&hide_border=true" width="80%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=smrnchoubey-ops&show_icons=true&theme=radical" width="45%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=smrnchoubey-ops&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrnchoubey-ops&layout=compact&theme=dark" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smrnchoubey-ops&theme=github_dark&utcOffset=5.5" width="45%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=smrnchoubey-ops&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=smrnchoubey-ops&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
 
 ---
 
