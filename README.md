@@ -182,16 +182,10 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
 <img src="https://github-profile-trophy.vercel.app/?username=smrnchoubey-ops&theme=radical" />
 </p>
 
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=smrnchoubey-ops&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ---
 
 
-<h2 align="left">Contact with me</h2>
+<h2 align="left">📬 Connect with Me</h2>
 
 <p align="center">
   <a href="https://smrnchoubey-ops.github.io/Portfolio" target="_blank">
