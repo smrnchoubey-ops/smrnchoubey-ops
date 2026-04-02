@@ -1,4 +1,4 @@
-![Banner](https://github.com/smrnchoubey-ops/smrnchoubey-ops/blob/main/banner.png?raw=true)
+ ![Banner](https://github.com/smrnchoubey-ops/smrnchoubey-ops/blob/main/banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Kshama Chaturvedi</h1>
 <h3 align="center">AI & Data Science Student | Python Developer | Aspiring ML Engineer</h3>
