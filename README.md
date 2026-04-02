@@ -178,11 +178,6 @@ Currently pursuing MCA in AI & Data Science while actively contributing to open-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smrnchoubey-ops&theme=github_dark&utcOffset=5.5" width="45%" />
 </p>
 
-
-
----
-
-
 <h2 align="left">📬 Connect with Me</h2>
 
 <p align="center">
